@@ -1,4 +1,0 @@
-repository "ButWorseGame@emilmiliam@cloud"
-  path "/"
-    br "/main"
-    co "/main"
